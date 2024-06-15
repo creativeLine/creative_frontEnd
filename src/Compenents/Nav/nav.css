@@ -1,0 +1,19 @@
+.sideNav-toggle {
+    /* Custom styles for the toggle button */
+}
+
+.sidenav---sidenav---_2tBP {
+    background-color: rgb(29,30,35);
+    /* height: 99.5vh; */
+    margin: 5px;
+  ;
+}
+.sidenav---sidenav-nav---3tvij{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.sidenav-main {
+    /* transition: margin-left 0.3s; */
+}
